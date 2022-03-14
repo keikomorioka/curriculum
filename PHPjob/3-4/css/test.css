@@ -1,0 +1,17 @@
+body {
+    background-color: #808080;
+    text-align: center;
+    color: #fff;
+    font-family: serif;
+}
+h1 {
+    font-size: 32px;
+    margin-top: 150px;
+    border-bottom: 3px solid #fff;
+}
+form {
+    margin-top: 100px;
+}
+.name {
+    margin-top: 100px;
+}
